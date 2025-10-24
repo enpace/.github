@@ -1,7 +1,5 @@
 # Enpace AG – Information Technology
 
-![Enpace Logo](media/logo.png)
-
 **Enpace AG** was founded in 2021 with a simple goal: help you operate your IT in an effective and modern way.  
 We provide consulting, implementation and support across cloud solutions, DevOps, IT automation, configuration management and monitoring.
 
@@ -69,4 +67,5 @@ We focus on maintainable, scalable enterprise solutions.
 ✉️ [info@enpace.ch](mailto:info@enpace.ch)  
 🌐 [https://www.enpace.ch](https://www.enpace.ch)
 
-
+---
+![Enpace Logo](media/logo.png)
